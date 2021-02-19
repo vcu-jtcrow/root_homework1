@@ -10,18 +10,18 @@ For your homework, fork this repository to your account.
 
 Updated the 'README.md' file to change the URLs for the github actions:
 
-https://github.com/vcu-chfauerbach/root_homework1/workflows/Pylint/badge.svg
+removed
 
 should become
 
-https://github.com/YOUR_GITHUB_ACCOUNT/root_homework1/workflows/Pylint/badge.svg
+removed
 
 Edit the file ./homework1/hw1.py to make the three github actions pass.
 
 When they pass, and you see the updated badges in your repository, send me a link to the repository, like:
 
-https://github.com/vcu-chfauerbach/root_homework1
+removed
 
 but
 
-https://github.com/YOUR_GITHUB_ACCOUNT/root_homework1
+removed
